@@ -2,7 +2,7 @@
 
 A karaoke room for Android TV / Google TV: a curated song library, a queue with each singer's name, and Party Mode — guests pick songs from their phones. No YouTube Data API, no account.
 
-Made by **Toan Nguyen In Oz** — free educational apps and content for the Vietnamese community in Australia.
+Made by **Toan Nguyen IT Oz** — free educational apps and content for the Vietnamese community in Australia.
 
 ![Karaoke Gia Đình](https://img.shields.io/badge/platform-Android%20TV%20%7C%20Google%20TV-green)
 ![Languages](https://img.shields.io/badge/languages-English%20%7C%20Ti%E1%BA%BFng%20Vi%E1%BB%87t-blue)
